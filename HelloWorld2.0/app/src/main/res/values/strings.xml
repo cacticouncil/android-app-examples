@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World 2.0</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_event_name">Event Name</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+</resources>

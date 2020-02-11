@@ -1,0 +1,132 @@
+{
+  "about":
+  {
+    "name":"Jose's Cantina",
+    "story":"Jose's Cantina offers signature blend of authentic Mexican ingredients and innovative culinary techniques. Jose and his team are ready to bring the best of Mexico right to your table! We promise you will love every bite. We invite you to come and enjoy a unique Mexican experience in a friendly and fun atmosphere!",
+    "address":"1234 Hungry St, Orlando, FL 32801",
+    "phone":"407-123-4567"
+  },
+  "menu": [
+    {
+      "type":1,
+      "name":"Hard Taco",
+      "description":"American style crispy corn tortilla taco, with choice of protein, cheese, tomato, sour cream",
+      "price":1.99
+    },
+    {
+      "type":1,
+      "name":"Soft Taco",
+      "description":"American style flour tortilla taco, with choice of protein, cheese, tomato, sour cream",
+      "price":1.99
+    },
+    {
+      "type":1,
+      "name":"Dos Tacos",
+      "description":"Double the trouble!",
+      "price":3.50
+    },
+    {
+      "type":1,
+      "name":"Burrrrrito",
+      "description":"Like a normal burrito, but better",
+      "price":4.99
+    },
+    {
+      "type":1,
+      "name":"Burrito Ranchero",
+      "description":"Burrito coated with melted white queso and raw onion",
+      "price":5.99
+    },
+    {
+      "type":1,
+      "name":"Nachos Locos",
+      "description":"Their craaaazy man!",
+      "price":4.99
+    },
+    {
+      "type":1,
+      "name":"Nachos Fajitas",
+      "description":"Delicious nachos with steaming fajitas overtop!",
+      "price":6.99
+    },
+    {
+      "type":1,
+      "name":"Fajitas",
+      "description":"Grilled protein (smokin' hot), served with guacomole salad, sour cream, pico de gallo, rice and beans. Comes with flour tortillas",
+      "price":4.99
+    },
+    {
+      "type":1,
+      "name":"Chile Relleno",
+      "description":"Poblano peppers stuffed with picadillo meat, served with guacomole salad, rice and beans",
+      "price":4.99
+    },
+    {
+      "type":1,
+      "name":"Durango",
+      "description":"Crispy beef taco, chile con queso, chicken sour cream, cheese enchilada, served with rice and beans",
+      "price":4.99
+    },
+    {
+      "type":1,
+      "name":"Flautas",
+      "description":"Rolled corn tortilla stuffed with chicken, topped with cheese, tomato, gaucamole, and served with rice and beans",
+      "price":4.99
+    },
+    {
+      "type":1,
+      "name":"",
+      "description":"",
+      "price":0
+    },
+
+    {
+      "type":2,
+      "name":"Horchata",
+      "description":"Delicious cinnamon rice milk",
+      "price":1.99
+    },
+    {
+      "type":2,
+      "name":"Margarita",
+      "description":"Americano style",
+      "price":4.99
+    },
+    {
+      "type":2,
+      "name":"Margarita Original",
+      "description":"Skinny (no mix)",
+      "price":4.99
+    },
+    {
+      "type":2,
+      "name":"Super Margarita",
+      "description":"Twice as nice!",
+      "price":6.99
+    },
+    {
+      "type":2,
+      "name":"Margarita Rita",
+      "description":"Mix with Corona",
+      "price":6.99
+    },
+    {
+      "type":2,
+      "name":"Bottle",
+      "description":"Ask server for latest bottle list",
+      "price":2.99
+    },
+    {
+      "type":2,
+      "name":"Draft",
+      "description":"Ask server for beers on draft",
+      "price":2.5
+    },
+    {
+      "type":2,
+      "name":"Craft",
+      "description":"Ask server about craft brews",
+      "price":4.99
+    }
+  ]
+}

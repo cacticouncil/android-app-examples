@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Jose\'s Cantina</string>
+    <string name="tab_about">About</string>
+    <string name="tab_food">Noms</string>
+    <string name="tab_drinks">Sips</string>
+    <string name="none">(none)</string>
+</resources>

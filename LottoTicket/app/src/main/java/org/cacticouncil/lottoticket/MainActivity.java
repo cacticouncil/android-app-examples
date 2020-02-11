@@ -1,4 +1,4 @@
-package org.delrocco.lottoticket;
+package org.cacticouncil.lottoticket;
 
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;

@@ -1,4 +1,4 @@
-package org.delrocco.lottoticket;
+package org.cacticouncil.lottoticket;
 
 import android.content.Context;
 import android.graphics.Bitmap;

@@ -17,19 +17,19 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent">
 
-        <org.delrocco.lottoticket.PrizeView
+        <org.cacticouncil.lottoticket.PrizeView
             android:id="@+id/prize1"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:layout_weight="1"/>
 
-        <org.delrocco.lottoticket.PrizeView
+        <org.cacticouncil.lottoticket.PrizeView
             android:id="@+id/prize2"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:layout_weight="1"/>
 
-        <org.delrocco.lottoticket.PrizeView
+        <org.cacticouncil.lottoticket.PrizeView
             android:id="@+id/prize3"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"

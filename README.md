@@ -21,3 +21,9 @@ A simple lottery ticket scratch-off demo. Three prizes randomly ordered, "scratc
 A simple restaurant app with menu items loaded from a [JSON file](/RestaurantMenu/app/src/main/assets/restaurant.json). Food and drink items are sorted separately. Uses Fragment and RecyclerView.
 
 <img src="/RestaurantMenu/final/screen1.png" width=256> <img src="/RestaurantMenu/final/screen2.png" width=256>
+
+## Sensor Survey
+
+A merged version of code from [Google Codelabs](https://codelabs.developers.google.com)' [Getting Sensor Data tutorial](https://codelabs.developers.google.com/codelabs/advanced-android-training-sensor-data/), that simply changes the alpha of an ImageView when the proximity sensor is triggered.
+
+<img src="/SensorSurvey/final/screen1.png" width=256> <img src="/SensorSurvey/final/screen2.png" width=256>

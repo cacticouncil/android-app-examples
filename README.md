@@ -27,3 +27,9 @@ A simple restaurant app with menu items loaded from a [JSON file](/RestaurantMen
 A merged version of code from [Google Codelabs](https://codelabs.developers.google.com)' [Getting Sensor Data tutorial](https://codelabs.developers.google.com/codelabs/advanced-android-training-sensor-data/), that simply changes the alpha of an ImageView when the proximity sensor is triggered.
 
 <img src="/SensorSurvey/final/screen1.png" width=256> <img src="/SensorSurvey/final/screen2.png" width=256>
+
+## Tic Tac Toe
+
+A simple Tic Tac Toe game, complete with minimax algorithm for the computer player. Somewhat dated, screen transitions are implemented with [Activities](https://developer.android.com/guide/components/activities/intro-activities) instead of [Fragments](https://developer.android.com/guide/components/fragments).
+
+<img src="/TicTacToe/final/screen1.png" width=256> <img src="/TicTacToe/final/screen2.png" width=256>

@@ -1,0 +1,85 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1.75"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Tic Tac Toe"
+            android:textSize="@dimen/menu_title"
+            android:textStyle="bold"
+            android:layout_marginTop="100dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="The Game"
+            android:textSize="@dimen/menu_subtitle"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1.25"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tvMenuPvP"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Player vs Player"
+            android:textSize="@dimen/menu_option"
+            android:background="@android:drawable/list_selector_background" />
+        <TextView
+            android:id="@+id/tvMenuPvC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Player vs Computer"
+            android:textSize="@dimen/menu_option"
+            android:background="@android:drawable/list_selector_background" />
+        <TextView
+            android:id="@+id/tvMenuCvC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Computer vs Computer"
+            android:textSize="@dimen/menu_option"
+            android:background="@android:drawable/list_selector_background" />
+        <TextView
+            android:id="@+id/tvMenuDifficulty"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Difficulty: Hard"
+            android:textSize="@dimen/menu_option"
+            android:background="@android:drawable/list_selector_background" />
+        <TextView
+            android:id="@+id/tvMenuCredits"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Credits"
+            android:textSize="@dimen/menu_option"
+            android:background="@android:drawable/list_selector_background" />
+
+    </LinearLayout>
+
+</LinearLayout>

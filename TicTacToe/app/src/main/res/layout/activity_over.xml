@@ -1,0 +1,29 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center"
+    tools:context=".OverActivity">
+
+    <TextView
+        android:id="@+id/tvWinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text=""
+        android:textSize="@dimen/menu_title"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvPlayAgain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Play Again"
+        android:textSize="@dimen/menu_subtitle"
+        android:textStyle="bold"
+        android:layout_marginTop="10dp" />
+
+</LinearLayout>
